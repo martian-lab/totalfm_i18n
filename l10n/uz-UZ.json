@@ -226,5 +226,10 @@
   "ошибка": "Xato",
   "по {}": "bo‘yicha {}",
   "с {}": "bilan {}",
-  "фамилия отчество": "Familiya va otasining ismi"
+  "фамилия отчество": "Familiya va otasining ismi",
+  "ru": "Ruscha",
+  "en": "Inglizcha",
+  "ky": "Qirg'izcha",
+  "tg": "Tojikcha",
+  "uz": "O'zbekcha"
 }

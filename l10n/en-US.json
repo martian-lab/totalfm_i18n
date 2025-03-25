@@ -226,5 +226,10 @@
   "ошибка": "Error",
   "по {}": "to {}",
   "с {}": "from {}",
-  "фамилия отчество": "Surname and patronymic"
+  "фамилия отчество": "Surname and patronymic",
+  "ru": "Russian",
+  "en": "English",
+  "ky": "Kyrgyz",
+  "tg": "Tajik",
+  "uz": "Uzbek"
 }
