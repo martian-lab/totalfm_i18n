@@ -221,7 +221,7 @@
   "Это другое здание.": "This is a different building.",
   "Это код здания.": "This is the building code.",
   "Это код зоны.": "This is the zone code.",
-  "Язык приложения": "App language",
+  "Язык приложения: {}": "App language: {}",
   "логин в системе": "System login",
   "ошибка": "Error",
   "по {}": "to {}",
